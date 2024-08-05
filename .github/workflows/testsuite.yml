@@ -118,7 +118,7 @@ jobs:
           pip install -r tests/requirements.txt
 
       - name: Run tests
-        uses: kostrykin/report-test-coverage-action@v1.0.0
+        uses: kostrykin/report-test-coverage-action@v1.0.2
         with:
           report: ${{ strategy.job-index == 0 }}
           gist-id: f46ddefff0798639bc320b13331dc7ca

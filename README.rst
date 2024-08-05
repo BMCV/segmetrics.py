@@ -6,7 +6,7 @@
       <a href="https://github.com/BMCV/segmetrics">segmetrics</a><br>
       <a href="https://github.com/BMCV/segmetrics/actions/workflows/testsuite.yml"><img src="https://github.com/BMCV/segmetrics/actions/workflows/testsuite.yml/badge.svg" /></a>
       <a href="https://github.com/BMCV/segmetrics/actions/workflows/testsuite.yml"><img src="https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/kostrykin/f46ddefff0798639bc320b13331dc7ca/raw/segmetrics.json" /></a>
-      <a href="https://doi.org/10.5281/zenodo.10111958"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.10111958.svg" /></a><br>
+      <a href="https://doi.org/10.5281/zenodo.10817137"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.10817137.svg" alt="DOI"></a><br>
       <a href="https://anaconda.org/bioconda/segmetrics"><img src="https://img.shields.io/badge/Install%20with-conda-%2387c305" /></a>
       <a href="https://anaconda.org/bioconda/segmetrics"><img src="https://img.shields.io/conda/v/bioconda/segmetrics.svg?label=Version" /></a>
       <a href="https://anaconda.org/bioconda/segmetrics"><img src="https://img.shields.io/conda/dn/bioconda/segmetrics.svg?label=Downloads" /></a>

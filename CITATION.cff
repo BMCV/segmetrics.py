@@ -1,9 +1,9 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 title: "segmetrics"
-doi: "10.5281/zenodo.10111958"
-version: 1.4
-date-released: 2023-07-23
+doi: "10.5281/zenodo.10817137"
+version: 1.5
+date-released: 2024-03-14
 url: "https://github.com/BMCV/segmetrics"
 authors:
 - family-names: "Kostrykin"
